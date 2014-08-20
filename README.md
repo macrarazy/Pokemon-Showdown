@@ -1,11 +1,13 @@
-﻿Pokémon Showdown
+﻿Frost Showdown
 ========================================================================
 
 Navigation: [Website][1] | **Server repository** | [Client repository][2]
 
-  [1]: http://pokemonshowdown.com/
+  [1]: http://frostserver.net/
   [2]: https://github.com/Zarel/Pokemon-Showdown-Client
-  
+
+
+
 Introduction
 ------------------------------------------------------------------------
 
@@ -123,28 +125,25 @@ Credits
 
 Owner
 
-- Guangcong Luo [Zarel] - Development, Design
+- jd4565 - Development, Features
+- Zarel - Creation
 
 Staff
 
-- Hugh Gordon [V4] - Research (game mechanics), Development
-- Leonardo Julca [Slayer95] - Development
-- [The Immortal] - Development
+- Okguy - Development
+- Tailz - Trainer Cards, Social Updates
+- piiiikachuuu - Development, Hangman
 
 Retired Staff
 
-- Bill Meltsner [bmelts] - Development
-- Cathy J. Fitzpatrick [cathyjf] - Development
-- Juanma Serrano [Joim] - Development
-- Mathieu Dias-Martins [Marty-D] - Research (game mechanics), Development
+- BrittleWind - Trainer Cards, Social Updates
+- Cosym - Development, Social Updates
+- auraburst - Social Updates
 
 Contributors
 
-- Andrew Goodsell [Zracknel] - Art (battle weather backdrops)
-- Ben Frengley [TalkTakesTime] - Development
-- Cody Thompson [Rising_Dusk] - Development
-- Kyle Dove [Kyle_Dove] - Art (battle backdrops)
-- Quinton Lee [sirDonovan] - Development
-- Robin Vandenbrande [Quinella] - Development
-- Samuel Teo [Yilx] - Art (main background)
-- Vivian Zou [Vtas] - Art (alternate main background)
+- panpawn - Color Cache, Miscellaneous
+- bandihub - (outdated) Roulette, Bug Fixes
+- [Contributors from Main][9]
+
+  [9]: https://github.com/Zarel/Pokemon-Showdown/blob/master/README.md#credits
